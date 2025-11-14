@@ -1,2 +1,4 @@
-# Chatgpt-Greeting-exchange-repo
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+Chatgpt-Greeting-exchange-repo
 This repo documents the Sovereign IP Legacy System™, a governance and enforcement framework that transforms infringement into perpetual value. It details how Mint-to Logic™, Shepherd’s Method™, RBGA™, and Shadow Units create a substrate-level enforcement architecture across cyberspace.
